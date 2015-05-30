@@ -7,8 +7,3 @@ puts nome
 
 
 soma = 10 + 10
-
-git add		# Adiciona arquivo no repositorio 'git' para monitoramento
-git reset   # volta a versao do arquivo para versao forme a chave do 'git log'
-git init    # Informa ao git que um diretorio e 'git'
-git commit  # Comita/grava alteracoes nos arquivos do diretori para o repositorio
